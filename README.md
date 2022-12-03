@@ -4,7 +4,7 @@
  
 # File Info.  
 |Name|Description|Tag|
-|---|---|---|
+|:---:|:---:|:---:|
 |RLC_Series|RLC 직렬회로 특성 모델링|Python 실행파일|  
 |RLC_Parallel|RLC 병렬회로 특성 모델링|Python 실행파일|  
 |전기회로-BPF설계|발표자료|Power Point Slide|  
